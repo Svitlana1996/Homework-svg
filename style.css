@@ -1,0 +1,16 @@
+
+.svg svg path {
+    fill: green;
+}
+.develop svg path {
+    stroke: rgb(3, 66, 24);
+    stroke-width: 1px;
+    fill: yellowgreen;
+    
+}
+ 
+.pro svg path {
+    fill:none;
+    stroke: blueviolet;
+}
+
